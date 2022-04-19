@@ -1,6 +1,8 @@
 # Palate
 
 This is a restaurant searching app developed in Kotlin using Android Studio for Android.
+The following is a Demo of the app.
+https://youtu.be/3ilKFaNrm8M
 
 # Backend
 
