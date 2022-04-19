@@ -6,3 +6,6 @@
 # Search Result Screenshots
 ![image](https://user-images.githubusercontent.com/85218416/163922733-afa5ca01-2efa-4b84-b7d2-89e9730a9ae5.png)
 ![image](https://user-images.githubusercontent.com/85218416/163922745-094f5ab5-7644-44d5-8899-e4171b35b925.png)
+
+# Demo of the App
+https://youtu.be/3ilKFaNrm8M
